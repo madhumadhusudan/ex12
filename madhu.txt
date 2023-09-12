@@ -1,0 +1,45 @@
+Description
+
+As a Customer
+
+I want to search the availability of hall for specific location.
+
+so that I can search the hall for specific location.
+
+Scope
+
+Build a search bar to search the Hall .
+
+pre condition
+
+Customer should have user ID and Password to Login.
+
+It should work in all browsers.
+
+Acceptance criteria
+
+scenario 1
+
+The hall is Available in specific location
+
+the customer should login with user id and password
+
+and he search the Hall using search Bar
+
+and he enter the valid location of hall he want
+
+and click search
+
+finally he get the message as “the Hall is available for your location “ Book it by soon.
+
+scenario 2
+
+the Hall is not available for specific Location
+
+the customer can enter a user name and password to login
+
+and Enter the location as outer of Karnataka  and check the search
+
+and get the message as “the hall is not available for you location", “Please enter the location is within Karnataka”. 
+
+so the search is un successful.
